@@ -12,7 +12,9 @@ config_version=5
 
 config/name="My Inner Courtroom"
 config/features=PackedStringArray("4.4", "GL Compatibility")
-config/icon="res://icon.svg"
+boot_splash/show_image=false
+boot_splash/image="uid://bs6x2eyr8yy7l"
+config/icon="uid://bs6x2eyr8yy7l"
 
 [autoload]
 
@@ -27,8 +29,10 @@ directories/dch_directory={
 "Work": "res://Characters/Work.dch"
 }
 directories/dtl_directory={
+"Chapter1": "res://Story/Chapter1.dtl",
 "Intro": "res://Story/Intro.dtl"
 }
+variables={}
 
 [editor_plugins]
 
