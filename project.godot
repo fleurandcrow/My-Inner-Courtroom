@@ -25,12 +25,14 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 directories/dch_directory={
 "Heart": "res://Characters/Heart.dch",
 "Julia": "res://Characters/Julia.dch",
+"Teacher": "res://Characters/Teacher.dch",
 "Tim": "res://Characters/Tim.dch",
 "Work": "res://Characters/Work.dch"
 }
 directories/dtl_directory={
 "Chapter1": "res://Story/Chapter1.dtl",
 "Chapter2": "res://Story/Chapter2.dtl",
+"Chapter3": "res://Story/Chapter3.dtl",
 "Intro": "res://Story/Intro.dtl"
 }
 variables={}
