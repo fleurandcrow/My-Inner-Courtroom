@@ -33,6 +33,7 @@ directories/dtl_directory={
 "Chapter1": "res://Story/Chapter1.dtl",
 "Chapter2": "res://Story/Chapter2.dtl",
 "Chapter3": "res://Story/Chapter3.dtl",
+"Chapter4": "res://Story/Chapter4.dtl",
 "Intro": "res://Story/Intro.dtl"
 }
 variables={}
