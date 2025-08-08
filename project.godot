@@ -37,6 +37,7 @@ directories/dtl_directory={
 "Chapter3": "res://Story/Chapter3.dtl",
 "Chapter4": "res://Story/Chapter4.dtl",
 "Chapter5": "res://Story/Chapter5.dtl",
+"Epilogue": "res://Story/Epilogue.dtl",
 "Intro": "res://Story/Intro.dtl"
 }
 variables={}
