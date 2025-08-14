@@ -15,13 +15,13 @@ Tim: That I...
 Tim: Like? her?
 # Insert visual of time blushing daydreaming here
 Tim: If I like her then... The next step is just to tell her!
-join Work
+join Work center
 Work: Don't you dar even think about that/
 # Insert visual of Work grabbing Tim, dark scene
 Work: You're a student in your final year of high school.
 Work: Your only goal is just to get into the university of your dreams.
 Work: Forget about her and continue your study session.
-join Heart
+join Heart center
 Heart: No!!!
 # Insert visual of Heart butting in
 Heart: We might never see her again after we graduate!
@@ -38,7 +38,7 @@ Work: It is unwise to pay attention to such distraction.
 Heart: Distraction this! Distraction that!
 Heart: Love is a natural part of human life!
 Work: Humanity works hard to improve itself. Thus, we must also make compromises to contribute to society.
-Heart: Society's filled with lovebirds holding hands! 
+Heart: Society's filled with lovebirds holding hands!
 Work: Therefore, we must elevate the level of our society by being a prime example.
 Work: Tim. Do not forget our duty.
 Tim: Yes. Find a renewable source of energy for humanity to thrive on...
@@ -67,9 +67,9 @@ Heart: Tim!!!
 Work: Tim...
 Tim: Enough is enough! Let's just put the decision on hold then!
 Tim: I'll go back to studying for now.
-Tim: Let's just wait and see if it's a good idea to tell her... 
+Tim: Let's just wait and see if it's a good idea to tell her...
 Work: Fine. But be warned. If you get distracted from that textbook of yours, your grades will start to drop.
 Heart: I know you'll wanna tell her eventually! High school's full of romance after all!
 Tim: It's settled then.
 Tim returns to writing down his notes.
-
+jump Chapter1/

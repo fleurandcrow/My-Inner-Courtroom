@@ -41,6 +41,7 @@ directories/dtl_directory={
 "Intro": "res://Story/Intro.dtl"
 }
 variables={}
+glossary/default_case_sensitive=true
 
 [editor_plugins]
 
