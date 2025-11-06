@@ -1,15 +1,34 @@
+join Julia center
 Julia: Hey, Tim! What's your favorite planet of the solar system?
+leave Julia
+join Tim center
 Tim: Jupiter?
+leave Tim 
+join Julia center 
 Julia: Why is that?
+leave Julia
+join Tim center
 Tim: Researchers have been conducting research on Jupiter's moons. There's a chance we could find renewable energy on there.
+leave Tim 
+join Julia center 
 Julia: You're always reading about that kind of stuff, doesn't it get kinda same-ey after a while?
+leave Julia
+join Tim center
 Tim: Even if it does, I still have to read on it so I know the latest news.
+leave Tim 
+join Julia center 
 Julia: Your determination is something else... Oh! A book about Jupiter.
+leave Julia
 # Insert CG with shelf falling on Julia
+join Heart left 
 Heart: Why are you standing there? Go save her!
+join Work right
 Work: The girl did this to herself. Just let her be.
 Heart: Don't be a cruel heartless monster!
 Work: Don't be a student with a failing grade.
+leave Work 
+leave Heart 
+join Tim center 
 Tim: I... DON'T KNOW!
 
 # A TRIAL STARTS!!!!
